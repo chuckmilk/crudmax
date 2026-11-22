@@ -1,6 +1,6 @@
 # Crudmax release list: key|name|version|sha256|url
 halation|Halation|1.1.1|571ecd274065593a79ac11a6541b524bd8168e5ac2ad79a568de832f2f3b2cd0|https://github.com/chuckmilk/crudmax/releases/download/r20261122-093504/halation-1.1.1.pkg
-xenorack|Xenorack|1.5.0|dddd85770a1605d541b32645a94d2cbe0a5fad8c7a96c38d6ba63b79fab63463|https://github.com/chuckmilk/crudmax/releases/download/r20261122-064521/xenorack-1.5.0.pkg
-xenorackfx|Xenorack FX|1.5.0|68f8b3b65538e6a9468a3f520e8df7157b8904e5e779f9bc2e74c62e24599de6|https://github.com/chuckmilk/crudmax/releases/download/r20261122-064521/xenorackfx-1.5.0.pkg
-vaporraid|Vapor Raid|0.4.1|e2504577e571a26238385b1e1e73284a1f4d2196c1e8356841f72cd3fc9b966e|https://github.com/chuckmilk/crudmax/releases/download/r20261122-093504/vaporraid-0.4.1.pkg
+xenorack|Xenorack|1.5.1|e2709d4ba5ba43cd9e28338b5aede52dd1ee3e5c3ccb9c943c7c5c6ac560b8cd|https://github.com/chuckmilk/crudmax/releases/download/r20261122-183600/xenorack-1.5.1.pkg
+xenorackfx|Xenorack FX|1.5.1|e3ad961923fd44e63644fb589585bea38e76a913547e161614d5b2bc5a251b32|https://github.com/chuckmilk/crudmax/releases/download/r20261122-183600/xenorackfx-1.5.1.pkg
+vaporraid|Vapor Raid|0.4.2|e129b73d35b7e724925d621e8959a65690d762bd67ba97488ff46a28a4fced9f|https://github.com/chuckmilk/crudmax/releases/download/r20261122-183600/vaporraid-0.4.2.pkg
 updater|Crudmax Updater|1.0.1|2f820375f9a4dafb93a4d1ee215c56034d4fafe236daf6d806a4fcb62e788474|https://github.com/chuckmilk/crudmax/releases/download/r20261121-000123/updater-1.0.1.pkg
