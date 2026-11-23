@@ -3,4 +3,6 @@ halation|Halation|1.1.2|2ec55f77f5220e451dac721270cfa98cc8cb0a98be0fe1157bd82247
 xenorack|Xenorack|1.5.2|b5786f5e7a1aa290cccfb1ae4613290b8b17c158a18ba7a38f46272b8526949e|https://github.com/chuckmilk/crudmax/releases/download/r20261123-004516/xenorack-1.5.2.pkg
 xenorackfx|Xenorack FX|1.5.2|790b28ceee8b0482f6785ef1264ba869e76aaf2d5040ecc59744379f672de1e3|https://github.com/chuckmilk/crudmax/releases/download/r20261123-004516/xenorackfx-1.5.2.pkg
 vaporraid|Vapor Raid|0.4.3|feca393b2ac802b6e464de0231493dd8cfab0bbb4bb90803e8289d042af3b7b6|https://github.com/chuckmilk/crudmax/releases/download/r20261123-004516/vaporraid-0.4.3.pkg
+listenertalker|Listenertalker|1.0.0|c5f186616af15aeed9e953245834e61f80fe20761cbfd97ecd2d7f77d1b46938|https://github.com/chuckmilk/crudmax/releases/download/r20261123-034217/listenertalker-1.0.0.pkg
+listenertalkerfx|ListenertalkerFX|1.0.0|6b9379f0cb5af5b2c84b5a68f76113876704347fd88555a93853df553b7b5489|https://github.com/chuckmilk/crudmax/releases/download/r20261123-034217/listenertalkerfx-1.0.0.pkg
 updater|Crudmax Updater|1.0.1|2f820375f9a4dafb93a4d1ee215c56034d4fafe236daf6d806a4fcb62e788474|https://github.com/chuckmilk/crudmax/releases/download/r20261121-000123/updater-1.0.1.pkg
